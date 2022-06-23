@@ -1,16 +1,19 @@
 Hi 👋 My name is Adam Zuzo
 ==========================
 
-Fresh Chemical Engineer willing to become Data Scientist
+I am a Junior Cloud Data Engineer | Data Scientist
 --------------------------------------------------------
 
-I've been learning Data Science skills, during my bachelor of chemical engineering degree. I have been using data science skills throughout my entire carrier, but since graduation, I've decided to become a full-time Data Scientist. Welcome to my journey :):
+I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️
+I am DataCamp freak 📚
+Calisthenics enthusiast
+Welcome to my journey !
 
-* 🌍  I'm based in Poznan/Wloclawek, Poland
+* 🌍  I'm based in Poznan/Wloclawek/Warsaw, Poland
 * ✉️  You can contact me at [zuzoadam@gmail.com](mailto:zuzoadam@gmail.com)
-* 🧠  I'm learning SQL | Machine Learning
-* 🤝  I'm open to collaborating on Machine Learning | Data Science | Data Analytics projects
-* ⚡  I am a big fan of football & try to fight with technical crypto analysis. I am DataCamp freak :)
+* 🧠  I'm learning SQL | Machine Learning | AWS
+* 🤝  I'm open to collaborating on Machine Learning | Data Science | Data Analytics | Data Engineering projects
+* ⚡  I am a big fan of football & psychological books
 
 ### Skills
 
