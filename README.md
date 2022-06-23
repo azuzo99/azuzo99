@@ -20,7 +20,7 @@ I've been learning Data Science skills, during my bachelor of chemical engineeri
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)" alt="SQL" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="SQL" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
@@ -37,7 +37,7 @@ I've been learning Data Science skills, during my bachelor of chemical engineeri
 ### Socials
 
 <p align="left"> <a href="http://www.instagram.com/adam_zuzo11/?hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/adam.zuzo" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:2021_Facebook_icon.svg" width="32" height="32" /></a> <a href="https://www.github.com/azuzo99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.facebook.com/adam.zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/adam-zuzo/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/16736383/adam-zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/adamzuzo99" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="32" height="32" /></a></p>
