@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Zuzo
 ==========================
 
-I am a Junior Cloud Data Engineer | Data Scientist
+I am a Junior Cloud Data | Data Scientist
 --------------------------------------------------------
 
 I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️
