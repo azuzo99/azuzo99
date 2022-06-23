@@ -4,9 +4,9 @@ Hi 👋 My name is Adam Zuzo
 I am a Junior Cloud Data | Data Scientist
 --------------------------------------------------------
 
-I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️
-I am DataCamp freak 📚
-Calisthenics enthusiast
+I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️ <br />
+I am DataCamp freak 📚 <br />
+Calisthenics enthusiast <br />
 Welcome to my journey !
 
 * 🌍  I'm based in Poznan/Wloclawek/Warsaw, Poland
