@@ -43,4 +43,5 @@ Welcome to my journey !
 <a href="https://www.facebook.com/adam.zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/adam-zuzo/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/16736383/adam-zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/adamzuzo99" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/adamzuzo99" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="32" height="32" /></a>
+<a href="https://www.datacamp.com/profile/zuzoadam" target="_blank" rel="noreferrer"><img src="https://cdn.lovesavingsgroup.com/logos/datacamp.png" width="32" height="32" /></a></p>
