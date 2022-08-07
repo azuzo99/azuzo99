@@ -4,7 +4,7 @@ Hi 👋 My name is Adam Zuzo
 I am a Junior Data Engineer | AWS Certified Practitioner
 --------------------------------------------------------
 
-I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️ <br />
+I am working on the AWS Cloud Solution Architect - Associate & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️ <br />
 I am DataCamp freak 📚 <br />
 Calisthenics enthusiast <br />
 Welcome to my journey !
@@ -19,7 +19,7 @@ Welcome to my journey !
 
 <p align="left">
   
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb//9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="SQL" width="40" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" width="40" height="40"/></a>
