@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Zuzo
 ==========================
 
-I am a Junior Cloud Data | Data Scientist
+I am a Junior Data Engineer | AWS Certified Practitioner
 --------------------------------------------------------
 
 I am working on the AWS Cloud Practitioner Certification & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️ <br />
@@ -11,19 +11,21 @@ Welcome to my journey !
 
 * 🌍  I'm based in Poznan/Wloclawek/Warsaw, Poland
 * ✉️  You can contact me at [zuzoadam@gmail.com](mailto:zuzoadam@gmail.com)
-* 🧠  I'm learning SQL | Machine Learning | AWS
-* 🤝  I'm open to collaborating on Machine Learning | Data Science | Data Analytics | Data Engineering projects
+* 🧠  I'm learning AWS | PySpark | SQL | Python | Terraform
+* 🤝  I'm open to collaborating on Cloud | Data Engineering | Machine Learning | Data Science | Data Analytics projects
 * ⚡  I am a big fan of football & psychological books
 
 ### Skills
 
 <p align="left">
   
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb//9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="SQL" width="40" height="40"/> </a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="SQL" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
