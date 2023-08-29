@@ -4,8 +4,8 @@ Hi 👋 My name is Adam Zuzo
 I am a Junior Data Engineer | AWS Certified Practitioner
 --------------------------------------------------------
 
-I am working on the AWS Cloud Solution Architect - Associate & meanwhile developing my Data Engineering and Data Science skills 📊 ☁️ <br />
-I am DataCamp freak 📚 <br />
+I am  AWS Cloud Solution Architect - Associate & meanwhile developing my Data Engineering adn AWS Skills (==> AWS Data Analytics Speciality) 📊 ☁️ <br />
+
 
 * 🌍  I'm based in Poznan/Wloclawek/Warsaw, Poland
 * ✉️  You can contact me at [zuzoadam@gmail.com](mailto:zuzoadam@gmail.com)
