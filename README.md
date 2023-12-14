@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Zuzo
 ==========================
 
-I am a Data Engineer | AWS Certified Data Abalytics Specialist
+I am a Data Engineer | AWS Certified Data Analytics Specialist
 --------------------------------------------------------
 
 I am developing my Data Engineering and AWS Skills 📊 ☁️ <br />
