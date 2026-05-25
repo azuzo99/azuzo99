@@ -1,47 +1,61 @@
-Hi 👋 My name is Adam Zuzo
-==========================
+# Hi 👋 My name is Adam Zuzo
 
-I am a Data Engineer | AWS Certified Data Analytics Specialist
---------------------------------------------------------
+### One part Data Engineer, one part cloud cost-cutter, full-time problem solver.
 
-I am developing my Data Engineering and AWS Skills 📊 ☁️ <br />
+---
 
+My day-to-day looks like translating billions of rows into clean, high-performance platforms that drive real decisions. Currently, I'm diving deep into AI (Karpathy knowledge bases & agent harnesses/swarms), wrangling cloud lakehouses (Iceberg), and building data architectures that can handle massive scale without breaking a sweat (AWS).
 
-* 🌍  I'm based in Poznan/Wloclawek/Warsaw, Poland
-* ✉️  You can contact me at [zuzoadam@gmail.com](mailto:zuzoadam@gmail.com)
-* 🧠  I'm learning AWS | PySpark | SQL | Python | Terraform
-* 🤝  I'm open to collaborating on Cloud | Data Engineering | Machine Learning | Data Science | Data Analytics projects
-* ⚡  I am a big fan of football & psychological books
+Great engineering isn't just about building pipelines that work—it's about making them sustainable and cost-effective. A flawless data platform loses its charm if it comes with a terrifying AWS bill at the end of the month. I get a genuine kick out of optimizing performance and cutting cloud waste where others just throw more hardware at the problem—all of that to help drive impactful decisions.
 
-### Skills
+### 🏃‍♂️ Beyond the terminal
+
+* **Community:** As a co-leader of the **AWS User Group in Poznań**, I love bringing the local tech ecosystem together to swap architecture horror stories and share cloud wins.
+* **Athletics:** When the screen goes blank, I’m usually out training. I firmly believe that the discipline it takes to hit a new personal best in sports is the exact same mindset needed to crack a stubborn data engineering puzzle.
+
+---
+
+### 🛠️ Core Tech Stack
 
 <p align="left">
-  
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="SQL" width="40" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/Claude_/_AI-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-%231786C5.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Iceberg" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📊 My GitHub Stats
 
-<a href="http://www.github.com/azuzo99"><img src="https://github-readme-stats.vercel.app/api?username=azuzo99&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="azuzo99's GitHub stats" /></a>
+<p align="left">
+  <a href="https://github.com/azuzo99">
+    <img src="https://github-readme-stats.vercel.app/api?username=azuzo99&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="azuzo99's GitHub stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/azuzo99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=azuzo99&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+  <a href="https://github.com/azuzo99">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azuzo99&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-<a href="https://github.com/azuzo99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azuzo99&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-### Socials
+### 🤝 Let's Connect
 
-<p align="left"> <a href="http://www.instagram.com/adam_zuzo11/?hl=en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/adam.zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/adam-zuzo/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/16736383/adam-zuzo" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/adamzuzo99" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" width="32" height="32" /></a>
-<a href="https://www.datacamp.com/profile/zuzoadam" target="_blank" rel="noreferrer"><img src="https://cdn.lovesavingsgroup.com/logos/datacamp.png" width="32" height="32" /></a></p>
+Let's connect if you want to talk Big Data, cloud efficiency, or community building!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-zuzo/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="36" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://www.instagram.com/adam_zuzo11/?hl=en" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="36" height="36" alt="Instagram" />
+  </a>
+</p>
