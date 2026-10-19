@@ -1,61 +1,120 @@
-# Hi 👋 My name is Adam Zuzo
+<a href="https://azuzo99.github.io">
+  <picture>
+    <img src="./assets/banner.svg" width="100%" alt="Adam Zuzo - Data & AI Engineer. Open to new projects.">
+  </picture>
+</a>
 
-### One part Data Engineer, one part cloud cost-cutter, full-time problem solver.
-
----
-
-My day-to-day looks like translating billions of rows into clean, high-performance platforms that drive real decisions. Currently, I'm diving deep into AI (Karpathy knowledge bases & agent harnesses/swarms), wrangling cloud lakehouses (Iceberg), and building data architectures that can handle massive scale without breaking a sweat (AWS).
-
-Great engineering isn't just about building pipelines that work—it's about making them sustainable and cost-effective. A flawless data platform loses its charm if it comes with a terrifying AWS bill at the end of the month. I get a genuine kick out of optimizing performance and cutting cloud waste where others just throw more hardware at the problem—all of that to help drive impactful decisions.
-
-### 🏃‍♂️ Beyond the terminal
-
-* **Community:** As a co-leader of the **AWS User Group in Poznań**, I love bringing the local tech ecosystem together to swap architecture horror stories and share cloud wins.
-* **Athletics:** When the screen goes blank, I’m usually out training. I firmly believe that the discipline it takes to hit a new personal best in sports is the exact same mindset needed to crack a stubborn data engineering puzzle.
-
----
-
-### 🛠️ Core Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_/_AI-%23D97706.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-%231786C5.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Iceberg" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <a href="https://azuzo99.github.io"><img src="https://img.shields.io/badge/Full_profile-2F7A55?style=flat-square" alt="Full profile"></a>
+  <a href="https://www.linkedin.com/in/adam-zuzo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://calendly.com/adam-zuzo"><img src="https://img.shields.io/badge/Book_a_call-7FC7A0?style=flat-square&logo=calendly&logoColor=111111" alt="Book a call"></a>
+  <a href="mailto:zuzoadam@gmail.com"><img src="https://img.shields.io/badge/Email-2F7A55?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+```yaml
+whoami:
+  name: Adam Zuzo
+  role: Data & AI Engineering
+  location: Poznan / Warsaw  # remote-friendly
+  focus: [ads & revenue data, cloud cost optimization, AI apps]
+  scale: ~50 TB/day ingested | PB-scale Iceberg lakehouse
+  currently upskilling:
+    - chatbots
+    - ASDLC
+    - AI knowledge bases
+    - system design
+```
 
-### 📊 My GitHub Stats
+### Work with me
 
-<p align="left">
-  <a href="https://github.com/azuzo99">
-    <img src="https://github-readme-stats.vercel.app/api?username=azuzo99&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="azuzo99's GitHub stats" />
-  </a>
+<p align="center">
+  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-apps.svg" width="32%" alt="01 Apps & automations - for small businesses"></a>
+  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-consulting.svg" width="32%" alt="02 Consulting - for companies"></a>
+  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-training.svg" width="32%" alt="03 Training & mentoring - for teams and people"></a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/azuzo99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azuzo99&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
+<p align="center">
+  <a href="https://calendly.com/adam-zuzo"><img src="https://img.shields.io/badge/Book_a_free_45--min_intro_→-111111?style=for-the-badge&logo=calendly&logoColor=7FC7A0" alt="Book a free 45-min intro"></a>
 </p>
 
----
+### Stack
 
-### 🤝 Let's Connect
+<picture>
+  <img src="./assets/stack.svg" width="100%" alt="Main tech stack - Data: Snowflake, dbt, Iceberg, AWS, Spark, Airflow. AI: Claude, MCP, Agents, RAG, Knowledge bases, DataHub. System design: AWS, Docker, Supabase, Vercel, Terraform, CI/CD.">
+</picture>
 
-Let's connect if you want to talk Big Data, cloud efficiency, or community building!
+<details>
+<summary><b>Data</b> - where I use it</summary>
+<br>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-zuzo/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="36" height="36" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="http://www.instagram.com/adam_zuzo11/?hl=en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="36" height="36" alt="Instagram" />
-  </a>
+| Tech | In production |
+|---|---|
+| **Snowflake** | Data modelling for ads & revenue data |
+| **dbt** | Modelling, tests and docs for revenue pipelines |
+| **Apache Iceberg** | PB-scale lakehouse tables - partitioning, compaction, time travel |
+| **Spark** | Heavy data transformations |
+| **Airflow** | Orchestrates multiple data pipelines - from hourly ads ingestion to daily revenue models |
+| **AWS** | S3, Glue, Lambda, Redshift, Step Functions - storage to serverless DWH |
+
+</details>
+
+<details>
+<summary><b>AI</b> - where I use it</summary>
+<br>
+
+| Tech | In production |
+|---|---|
+| **Claude / Claude Code** | Core of my AI transformation work - from plugins to agents |
+| **MCP** | Custom servers exposing internal data & tools to agents |
+| **Agents & RAG** | Knowledge base and semantic layer over company data |
+| **DataHub** | Metadata & lineage that grounds LLM answers |
+
+</details>
+
+<details>
+<summary><b>System design</b> - where I use it</summary>
+<br>
+
+| Tech | In production |
+|---|---|
+| **Terraform** | Infra as code for data platform components |
+| **Docker** | Reproducible pipelines and local dev |
+| **GitHub Actions** | CI/CD for dbt, Airflow DAGs and plugins |
+| **Supabase + Vercel** | Full-stack apps for small businesses (auth, DB, edge) |
+
+</details>
+
+
+### Community
+
+<picture>
+  <img src="./assets/community.svg" width="100%" alt="Co-leader of Claude Community Poznan and AWS Poznan & Poland Community">
+</picture>
+
+<p align="center">
+  <a href="https://www.meetup.com/claude_community_poznan/"><img src="https://img.shields.io/badge/Claude_Community_Poznan-Meetup-D97757?style=flat-square&logo=meetup&logoColor=white" alt="Claude Community Poznan on Meetup"></a>
+  <a href="https://luma.com/claude-community-poznan"><img src="https://img.shields.io/badge/Claude_Community_Poznan-Luma-111111?style=flat-square" alt="Claude Community Poznan on Luma"></a>
+  <a href="https://www.meetup.com/pl-pl/awsugpl/"><img src="https://img.shields.io/badge/AWS_Poznan_%26_Poland-Meetup-FF9900?style=flat-square&logo=meetup&logoColor=white" alt="AWS Poznan & Poland on Meetup"></a>
 </p>
+
+
+
+### Activity
+
+<table align="center">
+  <tr>
+    <td valign="middle" width="50%"><img src="https://ghstats.dev/api/card?username=azuzo99&bg=FBF6EE&text=5C5850&title_color=111111&icon_color=2F7A55&border_color=E4DACA&border_radius=16&show_ring=true&show_icons=true&hide_border=true" width="100%" alt="GitHub stats"></td>
+    <td valign="middle" width="50%"><img src="https://ghstats.dev/api/sparkline?username=azuzo99&days=90&width=480&height=240&bg=FBF6EE&text=5C5850&title_color=111111&line_color=2F7A55&fill_color=7FC7A0&title=Last%2090%20days&hide_border=true&border_radius=16" width="100%" alt="Activity - last 90 days"></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/mini?username=azuzo99&metric=contributions&color=2F7A55&style=flat-square" alt="Contributions">
+  <img src="https://ghstats.dev/api/mini?username=azuzo99&metric=week&color=111111&style=flat-square" alt="This week">
+  <img src="https://ghstats.dev/api/mini?username=azuzo99&metric=streak&color=2F7A55&style=flat-square" alt="Streak">
+  <img src="https://ghstats.dev/api/mini?username=azuzo99&metric=commits&color=111111&style=flat-square" alt="Commits">
+</p>
+
+<img src="https://ghchart.rshah.org/2F7A55/azuzo99" width="100%" alt="Contribution graph">
+
+<sub>Most of my work lives in private repositories - client privacy is my standard.</sub>
