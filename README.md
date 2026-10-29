@@ -1,41 +1,48 @@
 <a href="https://azuzo99.github.io">
   <picture>
-    <img src="./assets/banner.svg" width="100%" alt="Adam Zuzo - Data & AI Engineer. Open to new projects.">
+    <img src="./assets/banner.svg" width="100%" alt="Adam Zuzo - Data & AI that pays for itself. Apps, consulting and training.">
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://azuzo99.github.io"><img src="https://img.shields.io/badge/Full_profile-2F7A55?style=flat-square" alt="Full profile"></a>
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><img src="https://img.shields.io/badge/Book_a_free_45--min_intro-111111?style=flat-square&logo=calendly&logoColor=7FC7A0" alt="Book a free 45-min intro"></a>
+  <a href="https://azuzo99.github.io"><img src="https://img.shields.io/badge/What_I_offer-2F7A55?style=flat-square" alt="What I offer"></a>
   <a href="https://www.linkedin.com/in/adam-zuzo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://calendly.com/adam-zuzo"><img src="https://img.shields.io/badge/Book_a_call-7FC7A0?style=flat-square&logo=calendly&logoColor=111111" alt="Book a call"></a>
   <a href="mailto:zuzoadam@gmail.com"><img src="https://img.shields.io/badge/Email-2F7A55?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-```yaml
-whoami:
-  name: Adam Zuzo
-  role: Data & AI Engineering
-  location: Poznan / Warsaw  # remote-friendly
-  focus: [ads & revenue data, cloud cost optimization, AI apps]
-  scale: ~50 TB/day ingested | PB-scale Iceberg lakehouse
-  currently upskilling:
-    - chatbots
-    - ASDLC
-    - AI knowledge bases
-    - system design
-```
+**I build the data and AI systems revenue runs on - ~50 TB a day in production.**
+Apps and automations for small businesses. Consulting for data teams. AWS and Claude training.
+Poznan / Warsaw, remote-friendly.
 
 ### Work with me
 
 <p align="center">
-  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-apps.svg" width="32%" alt="01 Apps & automations - for small businesses"></a>
-  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-consulting.svg" width="32%" alt="02 Consulting - for companies"></a>
-  <a href="https://calendly.com/adam-zuzo"><img src="./assets/offer-training.svg" width="32%" alt="03 Training & mentoring - for teams and people"></a>
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><img src="./assets/offer-apps.svg" width="32%" alt="01 Apps & automations - for small businesses"></a>
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><img src="./assets/offer-consulting.svg" width="32%" alt="02 Consulting - for companies"></a>
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><img src="./assets/offer-training.svg" width="32%" alt="03 Training & mentoring - for teams and people"></a>
 </p>
 
+| | For | You get | It ends |
+|---|---|---|---|
+| **01 · Apps & automations** | Small businesses, sole traders (JDG) | A working app, automation or client portal - built in 2-week slices, handed over with the code and the accounts | When it works and you can run it without me |
+| **02 · Consulting** | Companies and data teams | Written findings and a prioritised plan your own team can execute - data platforms, AWS cost, AI rollouts | On the end date agreed in writing before we start |
+| **03 · Training & mentoring** | Teams and individuals | Workshops built on your stack and your data, or a fixed block of 1:1 sessions. You keep the material | On a set date. You renew only if you want to |
+
+Every one starts with the same free 45-minute call. No slides. You leave with a written next step whether or not you hire me.
+
 <p align="center">
-  <a href="https://calendly.com/adam-zuzo"><img src="https://img.shields.io/badge/Book_a_free_45--min_intro_→-111111?style=for-the-badge&logo=calendly&logoColor=7FC7A0" alt="Book a free 45-min intro"></a>
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><img src="https://img.shields.io/badge/Book_a_free_45--min_intro_→-111111?style=for-the-badge&logo=calendly&logoColor=7FC7A0" alt="Book a free 45-min intro"></a>
 </p>
+
+### Selected work
+
+| Project | What it is | Scale |
+|---|---|---|
+| **Ads & Revenue Data Platform** @ Fandom | The ads performance and revenue data monetization teams run on. Brand-safety data feeding dynamic ads. | ~50 TB/day · PB-scale Iceberg lakehouse |
+| **MovePhysiQ** | A patient platform for a paying physiotherapy practice - plans, bookings, progress. Built solo, end to end. | Next.js · Supabase · Vercel · E2E-tested |
+| **Claude Plugins Marketplace** @ Fandom | Company-wide Claude Code plugins, skills, hooks and MCP servers - installed in one command. | Every engineer, same tooling and guardrails |
+| **Teradata → Redshift migration** @ Onwelo | Client warehouse moved to AWS with tuned distribution and sort keys, validated table by table. | Enterprise migration |
 
 ### Stack
 
@@ -85,6 +92,13 @@ whoami:
 </details>
 
 
+### Credentials & community
+
+- **AWS Certified Solutions Architect – Associate** and **AWS Certified Data Analytics – Specialty**
+- **Co-leader of two tech communities**: [Claude Community Poznan](https://www.meetup.com/claude_community_poznan/) and [AWS Poznan & Poland](https://www.meetup.com/pl-pl/awsugpl/)
+- **Speaker**: SysOps/DevOps Polska, AWS Community Day - [watch the talk on AWS data costs](https://www.youtube.com/watch?v=SE4vJdIIbGM)
+- Led an 18-person academy team · mentoring engineers at Fandom
+
 ### Community
 
 <picture>
@@ -118,3 +132,7 @@ whoami:
 <img src="https://ghchart.rshah.org/2F7A55/azuzo99" width="100%" alt="Contribution graph">
 
 <sub>Most of my work lives in private repositories - client privacy is my standard.</sub>
+
+<p align="center">
+  <a href="https://calendly.com/adam-zuzo/konsultacja-it-it-consultation-pl-en"><b>Book a free 45-min intro →</b></a>
+</p>
